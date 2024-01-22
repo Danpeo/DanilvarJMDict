@@ -1,0 +1,6 @@
+@Danilvar.JMDict.Api_HostAddress = http://localhost:5070
+
+GET {{Danilvar.JMDict.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
